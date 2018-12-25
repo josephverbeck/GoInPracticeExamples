@@ -1,0 +1,2 @@
+Example 2018/06/26 10:24:08 file_log.go:13: This is a reg message
+Example 2018/06/26 10:24:08 file_log.go:14: This is a fatal error.

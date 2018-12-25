@@ -1,0 +1,9 @@
+cat
+hat
+mat
+fat
+pat
+bat
+cat
+lap
+
